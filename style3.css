@@ -1,0 +1,39 @@
+.container{
+    width: 60%;
+    text-align: center;
+    
+    margin:13px auto;
+    background-color: aquamarine;
+
+}
+
+input{
+    width: 80%;
+    text-align: center;
+    margin: 12px;
+    padding: 7px;
+    border: 2px solid blue;
+    border-radius: 8px;
+}
+.btn{
+    width: 100px;
+    margin: 18px;
+    padding: 7px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+h2{
+    font-size: 50px;
+    font-family: 'Inconsolata', monospace;
+    
+}
+
+table{
+    width: 100%;
+ }
+ table thead{
+    width: max-content;
+ }
+table td{
+    text-align: center;
+}
